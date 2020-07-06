@@ -11,49 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematical Sciences, Carnegie Mellon University, 2020
+* M.S. in Mathematical Sciences, Carnegie Mellon University University, 2020
+* Ph.D in Statistics, The University of Chicago, ongoing (expected 2025)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Python, Matlab
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+As a teaching assistant
+  * [21-269]{http://www.math.cmu.edu/~gautam/sj/teaching/2018-19/269-vector-analysis/}, Vector Analaysis, CMU, Spring 2019
+  * [21-268]{http://www.math.cmu.edu/~gautam/sj/teaching/2019-20/268-multid-calc/}, Multidimensional Calculus, CMU, 2020
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  
