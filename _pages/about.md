@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Yuepeng Yang's Personal Website"
+title: "Yuepeng Yang's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
